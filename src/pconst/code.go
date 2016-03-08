@@ -1,0 +1,23 @@
+package pconst
+
+const ERROR_OK = 0
+
+const ERROR_SYSTEM = 1003
+
+const ERROR_PARAMETER = 1004
+
+const ERROR_MONGO = 1005
+
+const ERROR_REDIS_WRITE_WARNING = 1006
+
+const ERROR_REDIS_INCR = 1007
+
+const ERROR_CONFIG = 1008
+
+const ERROR_MYSQL = 1009
+
+//hello
+
+const ERROR_HELLO_DIRTY = 100001
+
+const ERROR_HELLO_NOTFOUND = 100002
